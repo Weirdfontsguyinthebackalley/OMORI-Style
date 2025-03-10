@@ -1,1 +1,2 @@
-Nothing super important. This is for hosting custom fonts for my CSS and stuff. Yeah. Why did I even write this-
+Nothing super important. Hosts my custom fonts and images.
+Heres my style if your curious. (Must have Stylus installed): https://userstyles.world/style/21319/roblox-omori-whitespace-style
